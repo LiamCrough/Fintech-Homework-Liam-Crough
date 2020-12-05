@@ -1,6 +1,5 @@
-# Week 3 + 4 Homework
+# Week 5 Homework
 
-Please find within the 'Week 3+4 a Whale off the Portfolio/Starter_Code' folder the completed homework task.
+Please find within the 'Week 5 Starter_Code' folder the completed homework task.
 
-This folder contains the .ipynb file as well as an executable .py file.
-
+This folder contains the .ipynb file. 
