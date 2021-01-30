@@ -1,11 +1,8 @@
-# Week 10 Homework
+# Week 11 Homework
 
-Please find within the 'Week 10 Starter_Code' folder the completed homework task.
+Unfortunately, the homework folder was too large to be uploaded to github so the week 11 homework folder has been compressed into a zip folder. All of the coding is contained within this zip as well as the instructions/resources. 
 
-Unfortunately, I encountered technical difficulties when attempting to install the ARCH package required for the GARCH model in time series analysis. After following a stack overflow solution, my kernel would continually crash and my working environment was ruined. This required a reinstall of anaconda and the creation of a new environment. 
+Hope you have had a good week.
+Sincerely, 
+- Liam
 
-Consequently, out of fear of damaging my coding environment again and potentially causing further problems, the ARCH package wasn't installed and the GARCH models could not run on my machine. However, I am fairly certain that the code I have created is accurate and hope that this will be taken into consideration.
-
-- Liam. 
-
-This folder contains the .ipynb file. 
